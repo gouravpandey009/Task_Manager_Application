@@ -24,9 +24,4 @@ Run `npm install` in both **client** and **server** directories.
 ### 🔧 Node RESTful API Server
 1. Change directory to server using `cd server` before running any further commands.
 2. Run `nodemon app.js` or `node app.js` for backend server listening on port 3000.
-
----
-
-📖 Learn more about the MEAN stack [here](http://mean.io/).
-
 ---
